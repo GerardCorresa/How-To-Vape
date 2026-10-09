@@ -1,0 +1,15 @@
+# Archivos generados por "rojo build" (no se versionan)
+*.rbxl
+*.rbxlx
+*.rbxl.lock
+*.rbxlx.lock
+*.rbxm
+*.rbxmx
+build/
+output/
+*.sourcemap.json
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+Desktop.ini

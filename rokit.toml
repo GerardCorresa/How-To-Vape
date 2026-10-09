@@ -1,0 +1,18 @@
+# rokit.toml
+#
+# Manifiesto de herramientas de Rokit (https://github.com/rojo-rbx/rokit).
+#
+# NO es obligatorio para este proyecto: solo se usa si decides instalar Rojo
+# con Rokit en lugar de hacerlo manualmente (ver README.md, "Instalar Rojo",
+# Opcion 2).
+#
+# Con Rokit instalado, en la raiz del proyecto:
+#     rokit install
+#
+# Si la version de abajo ya no existe, abre
+# https://github.com/rojo-rbx/rojo/releases , copia el numero de la ultima
+# version (por ejemplo 7.5.1) y sustituyela aqui. Necesitas Rojo 7.3 o
+# superior para que entienda los archivos ".luau".
+
+[tools]
+rojo = "rojo-rbx/rojo@7.4.4"
