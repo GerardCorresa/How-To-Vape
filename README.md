@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # HOW TO VAPE
 
 Simulador de progresión por Puffs ambientado en una ciudad abierta de Roblox.
@@ -579,3 +580,6 @@ la carga y los marcadores de keyframe.
   fina a móvil/tablet con `UIScale` y `UISizeConstraint`).
 - **FASE 5**: misiones, multiplicadores temporales, recompensas diarias y
   batería de pruebas funcionales automatizadas.
+=======
+# How-To-Vape
+>>>>>>> 6eceebf2d55d411de13871f158720424a916fd51
